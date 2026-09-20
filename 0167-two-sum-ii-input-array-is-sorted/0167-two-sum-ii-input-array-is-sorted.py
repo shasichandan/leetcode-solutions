@@ -8,10 +8,9 @@ class Solution(object):
         j=len(numbers)-1
         i=0
         while i<j:
-            sum=numbers[i]+numbers[j]
-            if sum==target:
+            if numbers[i]+numbers[j]==target:
                 return[i+1,j+1]
-            elif sum<target:
+            elif numbers[i]+numbers[j]<target:
                 i=i+1
             else:
                 j=j-1
