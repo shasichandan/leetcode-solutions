@@ -67,11 +67,13 @@ My solutions are based on problems available on [LeetCode](https://leetcode.com/
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shasichandan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/shasichandan/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shasichandan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shasichandan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/shasichandan/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shasichandan/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -90,4 +92,8 @@ My solutions are based on problems available on [LeetCode](https://leetcode.com/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shasichandan/leetcode-solutions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shasichandan/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
